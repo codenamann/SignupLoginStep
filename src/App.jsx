@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import Landing from './pages/landing'
+import Landing from './pages/Landing'
 import { Route, Routes } from 'react-router-dom'
 import Login from './pages/Login'
 import Signup from './pages/Signup'
